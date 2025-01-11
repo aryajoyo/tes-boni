@@ -7,7 +7,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-//boni punya
+//boni punya route      
 
 
 
